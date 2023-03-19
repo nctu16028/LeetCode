@@ -44,3 +44,34 @@
 - [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Hash_Table/Medium/0138_Copy_List_with_Random_Pointer.cpp))
 
 ### Hard
+- [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Hash_Table/Hard/0149_Max_Points_on_a_Line.cpp))
+
+## Dynamic Programming
+
+### Easy
+- [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Dynamic_Programming/Easy/0070_Climbing_Stairs.cpp))
+- [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Dynamic_Programming/Easy/0118_Pascals_Triangle.cpp))
+- [338. Counting Bits](https://leetcode.com/problems/counting-bits/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Dynamic_Programming/Easy/0338_Counting_Bits.cpp))
+
+### Medium
+- [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Dynamic_Programming/Medium/0045_Jump_Game_II.cpp))
+- [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Dynamic_Programming/Medium/0064_Minimum_Path_Sum.cpp))
+- [120. Triangle](https://leetcode.com/problems/triangle/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Dynamic_Programming/Medium/0120_Triangle.cpp))
+
+### Hard
+- [72. Edit Distance](https://leetcode.com/problems/edit-distance/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Dynamic_Programming/Hard/0072_Edit_Distance.cpp))
+
+## Math
+
+### Easy
+- [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Math/Easy/0009_Palindrome_Number.cpp))
+- [66. Plus One](https://leetcode.com/problems/plus-one/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Math/Easy/0066_Plus_One.cpp))
+- [67. Add Binary](https://leetcode.com/problems/add-binary/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Math/Easy/0067_Add_Binary.cpp))
+
+### Medium
+- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Math/Medium/0007_Reverse_Integer.cpp))
+- [48. Rotate Image](https://leetcode.com/problems/rotate-image/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Math/Medium/0048_Rotate_Image.cpp))
+- [62. Unique Paths](https://leetcode.com/problems/unique-paths/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Math/Medium/0062_Unique_Paths.cpp))
+
+### Hard
+- [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Math/Hard/0060_Permutation_Sequence.cpp))
