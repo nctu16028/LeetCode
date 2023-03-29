@@ -75,3 +75,63 @@
 
 ### Hard
 - [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Math/Hard/0060_Permutation_Sequence.cpp))
+
+## Depth-First Search
+
+### Easy
+- [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/DFS/Easy/0094_Binary_Tree_Inorder_Traversal.cpp))
+- [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/DFS/Easy/0110_Balanced_Binary_Tree.cpp))
+- [112. Path Sum](https://leetcode.com/problems/path-sum/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/DFS/Easy/0112_Path_Sum.cpp))
+
+### Medium
+- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/DFS/Medium/0098_Validate_Binary_Search_Tree.cpp))
+- [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/DFS/Medium/0114_Flatten_Binary_Tree_to_Linked_List.cpp))
+- [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/DFS/Medium/0129_Sum_Root_to_Leaf_Numbers.cpp))
+
+### Hard
+- [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/DFS/Hard/0124_Binary_Tree_Maximum_Path_Sum.cpp))
+
+## Sorting
+
+### Easy
+- [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Sorting/Easy/0088_Merge_Sorted_Array.cpp))
+- [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Sorting/Easy/0455_Assign_Cookies.cpp))
+- [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Sorting/Easy/0905_Sort_Array_By_Parity.cpp))
+
+### Medium
+- [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Sorting/Medium/0056_Merge_Intervals.cpp))
+- [75. Sort Colors](https://leetcode.com/problems/sort-colors/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Sorting/Medium/0075_Sort_Colors.cpp))
+- [148. Sort List](https://leetcode.com/problems/sort-list/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Sorting/Medium/0148_Sort_List.cpp))
+
+### Hard
+- [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Sorting/Hard/0164_Maximum_Gap.cpp))
+
+## Greedy
+
+### Easy
+- [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Greedy/Easy/0409_Longest_Palindrome.cpp))
+- [561. Array Partition](https://leetcode.com/problems/array-partition/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Greedy/Easy/0561_Array_Partition.cpp))
+- [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Greedy/Easy/0860_Lemonade_Change.cpp))
+
+### Medium
+- [134. Gas Station](https://leetcode.com/problems/gas-station/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Greedy/Medium/0134_Gas_Station.cpp))
+- [179. Largest Number](https://leetcode.com/problems/largest-number/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Greedy/Medium/0179_Largest_Number.cpp))
+- [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Greedy/Medium/0334_Increasing_Triplet_Subsequence.cpp))
+
+### Hard
+- [135. Candy](https://leetcode.com/problems/candy/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Greedy/Hard/0135_Candy.cpp))
+
+## Breadth-First Search
+
+### Easy
+- [100. Same Tree](https://leetcode.com/problems/same-tree/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/BFS/Easy/0100_Same_Tree.cpp))
+- [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/BFS/Easy/0101_Symmetric_Tree.cpp))
+- [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/BFS/Easy/0111_Minimum_Depth_of_Binary_Tree.cpp))
+
+### Medium
+- [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/BFS/Medium/0102_Binary_Tree_Level_Order_Traversal.cpp))
+- [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/BFS/Medium/0103_Binary_Tree_Zigzag_Level_Order_Traversal.cpp))
+- [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/BFS/Medium/0116_Populating_Next_Right_Pointers_in_Each_Node.cpp))
+
+### Hard
+- [127. Word Ladder](https://leetcode.com/problems/word-ladder/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/BFS/Hard/0127_Word_Ladder.cpp))
