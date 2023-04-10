@@ -135,3 +135,61 @@
 
 ### Hard
 - [127. Word Ladder](https://leetcode.com/problems/word-ladder/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/BFS/Hard/0127_Word_Ladder.cpp))
+
+## Tree
+
+### Easy
+- [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Tree/Easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp))
+- [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Tree/Easy/0226_Invert_Binary_Tree.cpp))
+- [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Tree/Easy/0257_Binary_Tree_Paths.cpp))
+
+### Medium
+- [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Tree/Medium/0096_Unique_Binary_Search_Trees.cpp))
+- [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Tree/Medium/0109_Convert_Sorted_List_to_Binary_Search_Tree.cpp))
+- [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Tree/Medium/0222_Count_Complete_Tree_Nodes.cpp))
+
+### Hard
+
+## Binary Search
+
+### Easy
+- [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Binary_Search/Easy/0035_Search_Insert_Position.cpp))
+- [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Binary_Search/Easy/0367_Valid_Perfect_Square.cpp))
+- [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Binary_Search/Easy/0374_Guess_Number_Higher_or_Lower.cpp))
+
+### Medium
+- [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Binary_Search/Medium/0033_Search_in_Rotated_Sorted_Array.cpp))
+- [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Binary_Search/Medium/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp))
+- [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Binary_Search/Medium/0153_Find_Minimum_in_Rotated_Sorted_Array.cpp))
+
+### Hard
+
+## Matrix
+
+### Easy
+- [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Matrix/Easy/0463_Island_Perimeter.cpp))
+- [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Matrix/Easy/0566_Reshape_the_Matrix.cpp))
+- [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Matrix/Easy/0766_Toeplitz_Matrix.cpp))
+
+### Medium
+- [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Matrix/Medium/0054_Spiral_Matrix.cpp))
+- [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Matrix/Medium/0074_Search_a_2D_Matrix.cpp))
+- [79. Word Search](https://leetcode.com/problems/word-search/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Matrix/Medium/0079_Word_Search.cpp))
+
+### Hard
+- [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Matrix/Hard/0174_Dungeon_Game.cpp))
+
+## Binary Tree
+
+### Easy
+- [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Binary_Tree/Easy/0404_Sum_of_Left_Leaves.cpp))
+- [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Binary_Tree/Easy/0530_Minimum_Absolute_Difference_in_BST.cpp))
+- [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Binary_Tree/Easy/0543_Diameter_of_Binary_Tree.cpp))
+
+### Medium
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Binary_Tree/Medium/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp))
+- [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Binary_Tree/Medium/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp))
+- [331. Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Binary_Tree/Medium/0331_Verify_Preorder_Serialization_of_a_Binary_Tree.cpp))
+
+### Hard
+- [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Binary_Tree/Hard/0968_Binary_Tree_Cameras.cpp))
