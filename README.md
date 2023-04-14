@@ -149,6 +149,7 @@
 - [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Tree/Medium/0222_Count_Complete_Tree_Nodes.cpp))
 
 ### Hard
+- [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Tree/Hard/0834_Sum_of_Distances_in_Tree.cpp))
 
 ## Binary Search
 
@@ -163,6 +164,7 @@
 - [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Binary_Search/Medium/0153_Find_Minimum_in_Rotated_Sorted_Array.cpp))
 
 ### Hard
+- [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Binary_Search/Hard/0410_Split_Array_Largest_Sum.cpp))
 
 ## Matrix
 
@@ -193,3 +195,33 @@
 
 ### Hard
 - [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Binary_Tree/Hard/0968_Binary_Tree_Cameras.cpp))
+
+## Bit Manipulation
+
+### Easy
+- [136. Single Number](https://leetcode.com/problems/single-number/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Bit_Manipulation/Easy/0136_Single_Number.cpp))
+- [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Bit_Manipulation/Easy/0190_Reverse_Bits.cpp))
+- [231. Power of Two](https://leetcode.com/problems/power-of-two/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Bit_Manipulation/Easy/0231_Power_of_Two.cpp))
+
+### Medium
+- [78. Subsets](https://leetcode.com/problems/subsets/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Bit_Manipulation/Medium/0078_Subsets.cpp))
+- [89. Gray Code](https://leetcode.com/problems/gray-code/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Bit_Manipulation/Medium/0089_Gray_Code.cpp))
+- [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Bit_Manipulation/Medium/0201_Bitwise_AND_of_Numbers_Range.cpp))
+
+### Hard
+- [805. Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Bit_Manipulation/Hard/0805_Split_Array_With_Same_Average.cpp))
+
+## Stack
+
+### Easy
+- [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Stack/Easy/0589_N-ary_Tree_Preorder_Traversal.cpp))
+- [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Stack/Easy/1021_Remove_Outermost_Parentheses.cpp))
+- [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Stack/Easy/1047_Remove_All_Adjacent_Duplicates_In_String.cpp))
+
+### Medium
+- [71. Simplify Path](https://leetcode.com/problems/simplify-path/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Stack/Medium/0071_Simplify_Path.cpp))
+- [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Stack/Medium/0150_Evaluate_Reverse_Polish_Notation.cpp))
+- [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Stack/Medium/0402_Remove_K_Digits.cpp))
+
+### Hard
+- [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Stack/Hard/0032_Longest_Valid_Parentheses.cpp))
