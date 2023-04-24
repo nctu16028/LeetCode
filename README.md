@@ -225,3 +225,34 @@
 
 ### Hard
 - [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Stack/Hard/0032_Longest_Valid_Parentheses.cpp))
+
+## Heap
+
+### Easy
+- [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Heap/Easy/0506_Relative_Ranks.cpp))
+- [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Heap/Easy/1046_Last_Stone_Weight.cpp))
+- [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Heap/Easy/1337_The_K_Weakest_Rows_in_a_Matrix.cpp))
+- [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Heap/Easy/1464_Maximum_Product_of_Two_Elements_in_an_Array.cpp))
+
+### Medium
+- [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Heap/Medium/0215_Kth_Largest_Element_in_an_Array.cpp))
+- [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Heap/Medium/0347_Top_K_Frequent_Elements.cpp))
+- [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Heap/Medium/0373_Find_K_Pairs_with_Smallest_Sums.cpp))
+
+### Hard
+- [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Heap/Hard/0023_Merge_k_Sorted_Lists.cpp))
+
+## Graph
+
+### Easy
+- [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Graph/Easy/0997_Find_the_Town_Judge.cpp))
+- [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Graph/Easy/1791_Find_Center_of_Star_Graph.cpp))
+- [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Graph/Easy/1971_Find_if_Path_Exists_in_Graph.cpp))
+
+### Medium
+- [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Graph/Medium/0547_Number_of_Provinces.cpp))
+- [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Graph/Medium/0684_Redundant_Connection.cpp))
+- [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Graph/Medium/0785_Is_Graph_Bipartite.cpp))
+
+### Hard
+- [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Graph/Hard/0329_Longest_Increasing_Path_in_a_Matrix.cpp))
