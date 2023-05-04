@@ -256,3 +256,33 @@
 
 ### Hard
 - [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Graph/Hard/0329_Longest_Increasing_Path_in_a_Matrix.cpp))
+
+## Backtracking
+
+### Easy
+- [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Backtracking/Easy/0797_All_Paths_From_Source_to_Target.cpp))
+- [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Backtracking/Easy/0980_Unique_Paths_III.cpp))
+- [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Backtracking/Easy/1863_Sum_of_All_Subset_XOR_Totals.cpp))
+
+### Medium
+- [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Backtracking/Medium/0017_Letter_Combinations_of_a_Phone_Number.cpp))
+- [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Backtracking/Medium/0022_Generate_Parentheses.cpp))
+- [39. Combination Sum](https://leetcode.com/problems/combination-sum/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Backtracking/Medium/0039_Combination_Sum.cpp))
+
+### Hard
+- [51. N-Queens](https://leetcode.com/problems/n-queens/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Backtracking/Hard/0051_N_Queens.cpp))
+
+## Prefix Sum
+
+### Easy
+- [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Prefix_Sum/Easy/0303_Range_Sum_Query_Immutable.cpp))
+- [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Prefix_Sum/Easy/0724_Find_Pivot_Index.cpp))
+- [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Prefix_Sum/Easy/1413_Minimum_Value_to_Get_Positive_Step_by_Step_Sum.cpp))
+
+### Medium
+- [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Prefix_Sum/Medium/0238_Product_of_Array_Except_Self.cpp))
+- [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Prefix_Sum/Medium/0304_Range_Sum_Query_2D_Immutable.cpp))
+- [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Prefix_Sum/Medium/0560_Subarray_Sum_Equals_K.cpp))
+
+### Hard
+- [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Prefix_Sum/Hard/0363_Max_Sum_of_Rectangle_No_Larger_Than_K.cpp))
