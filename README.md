@@ -316,3 +316,48 @@
 
 ### Hard
 - [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Linked_List/Hard/0025_Reverse_Nodes_in_k_Group.cpp))
+
+## Divide and Conquer
+
+### Easy
+- [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Divide_and_Conquer/Easy/0191_Number_of_1_Bits.cpp))
+- [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Divide_and_Conquer/Easy/0654_Maximum_Binary_Tree.cpp))
+- [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Divide_and_Conquer/Easy/1382_Balance_a_Binary_Search_Tree.cpp))
+
+### Medium
+- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Divide_and_Conquer/Medium/0053_Maximum_Subarray.cpp))
+- [372. Super Pow](https://leetcode.com/problems/super-pow/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Divide_and_Conquer/Medium/0372_Super_Pow.cpp))
+- [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Divide_and_Conquer/Medium/0912_Sort_an_Array.cpp))
+
+### Hard
+- [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Divide_and_Conquer/Hard/0493_Reverse_Pairs.cpp))
+
+## Queue
+
+### Easy
+- [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Queue/Easy/0225_Implement_Stack_using_Queues.cpp))
+- [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Queue/Easy/0232_Implement_Queue_using_Stacks.cpp))
+- [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Queue/Easy/1700_Number_of_Students_Unable_to_Eat_Lunch.cpp))
+
+### Medium
+- [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Queue/Medium/0622_Design_Circular_Queue.cpp))
+- [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Queue/Medium/1352_Product_of_the_Last_K_Numbers.cpp))
+- [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Queue/Medium/1823_Find_the_Winner_of_the_Circular_Game.cpp))
+
+### Hard
+- [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Queue/Hard/0239_Sliding_Window_Maximum.cpp))
+
+## Enumeration
+
+### Easy
+- [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Enumeration/Easy/1925_Count_Square_Sum_Triples.cpp))
+- [2309. Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Enumeration/Easy/2309_Greatest_English_Letter_in_Upper_and_Lower_Case.cpp))
+- [2367. Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Enumeration/Easy/2367_Number_of_Arithmetic_Triplets.cpp))
+
+### Medium
+- [204. Count Primes](https://leetcode.com/problems/count-primes/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Enumeration/Medium/0204_Count_Primes.cpp))
+- [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Enumeration/Medium/0845_Longest_Mountain_in_Array.cpp))
+- [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Enumeration/Medium/1291_Sequential_Digits.cpp))
+
+### Hard
+- [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Enumeration/Hard/0829_Consecutive_Numbers_Sum.cpp))
