@@ -361,3 +361,36 @@
 
 ### Hard
 - [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Enumeration/Hard/0829_Consecutive_Numbers_Sum.cpp))
+
+## Segment Tree
+
+### Medium
+- [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Segment_Tree/Medium/0307_Range_Sum_Query_Mutable.cpp))
+
+### Hard
+- [327. Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Segment_Tree/Hard/0327_Count_of_Range_Sum.cpp))
+
+## Hash Function
+
+### Easy
+- [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Hash_Function/Easy/0572_Subtree_of_Another_Tree.cpp))
+- [705. Design HashSet](https://leetcode.com/problems/design-hashset/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Hash_Function/Easy/0705_Design_HashSet.cpp))
+- [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Hash_Function/Easy/0706_Design_HashMap.cpp))
+
+### Medium
+- [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Hash_Function/Medium/0535_Encode_and_Decode_TinyURL.cpp))
+- [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Hash_Function/Medium/0718_Maximum_Length_of_Repeated_Subarray.cpp))
+- [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Hash_Function/Medium/1461_Check_If_a_String_Contains_All_Binary_Codes_of_Size_K.cpp))
+
+### Hard
+- [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Hash_Function/Hard/0214_Shortest_Palindrome.cpp))
+
+## Shortest Path
+
+### Medium
+- [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Shortest_Path/Medium/0743_Network_Delay_Time.cpp))
+- [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Shortest_Path/Medium/1334_Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.cpp))
+- [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Shortest_Path/Medium/1514_Path_with_Maximum_Probability.cpp))
+
+### Hard
+- [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Shortest_Path/Hard/1368_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid.cpp))
