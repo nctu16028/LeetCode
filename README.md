@@ -394,3 +394,46 @@
 
 ### Hard
 - [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Shortest_Path/Hard/1368_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid.cpp))
+
+## Doubly-Linked List
+
+### Medium
+- [146. LRU Cache](https://leetcode.com/problems/lru-cache/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Doubly_Linked_List/Medium/0146_LRU_Cache.cpp))
+- [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Doubly_Linked_List/Medium/0430_Flatten_a_Multilevel_Doubly_Linked_List.cpp))
+- [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Doubly_Linked_List/Medium/1472_Design_Browser_History.cpp))
+
+### Hard
+- [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Doubly_Linked_List/Hard/0460_LFU_Cache.cpp))
+
+## Minimum Spanning Tree
+
+### Medium
+- [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/MST/Medium/1584_Min_Cost_to_Connect_All_Points.cpp))
+
+### Hard
+- [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/MST/Hard/1489_Find_Critical_and_Pseudo_Critical_Edges_in_Minimum_Spanning_Tree.cpp))
+
+## Line Sweep
+
+### Hard
+- [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Line_Sweep/Hard/0218_The_Skyline_Problem.cpp))
+
+## Eulerian Circuit
+
+### Hard
+- [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Eulerian_Circuit/Hard/0332_Reconstruct_Itinerary.cpp))
+
+## Topological Sort
+
+### Medium
+- [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Topological_Sort/Medium/0210_Course_Schedule_II.cpp))
+- [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Topological_Sort/Medium/0310_Minimum_Height_Trees.cpp))
+- [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Topological_Sort/Medium/0802_Find_Eventual_Safe_States.cpp))
+
+### Hard
+- [1203. Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Topological_Sort/Hard/1203_Sort_Items_by_Groups_Respecting_Dependencies.cpp))
+
+## Network Flow
+
+### Hard
+- [1349. Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/) (Solution: [C++](https://github.com/nctu16028/LeetCode/tree/master/Network_Flow/Hard/1349_Maximum_Students_Taking_Exam.cpp))
