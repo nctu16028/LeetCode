@@ -2,7 +2,7 @@
 using namespace std;
 
 bool hasAlternatingBits(int n) {
-    // Use "bit swearing" to create a mask that filters leading zero bits
+    // Use "bit smearing" to create a mask that filters leading zero bits
     int mask = n;
     mask |= (mask >> 1);
     mask |= (mask >> 2);

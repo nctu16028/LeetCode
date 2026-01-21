@@ -2,7 +2,7 @@
 using namespace std;
 
 int findComplement(int num) {
-    // Use "bit swearing" to create a mask that filters leading zero bits
+    // Use "bit smearing" to create a mask that filters leading zero bits
     int mask = num;
     mask |= (mask >> 1);
     mask |= (mask >> 2);

@@ -5,7 +5,7 @@ int bitwiseComplement(int n) {
     if (n == 0)
         return 1;
 
-    // Use "bit swearing" to create a mask that filters leading zero bits
+    // Use "bit smearing" to create a mask that filters leading zero bits
     int mask = n;
     mask |= (mask >> 1);
     mask |= (mask >> 2);
